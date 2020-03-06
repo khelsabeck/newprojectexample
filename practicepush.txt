@@ -1,3 +1,9 @@
 This is some text.
 
 More good text.
+
+New line.
+
+New line good.
+
+Mistake. Oh no!
